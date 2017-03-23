@@ -1,0 +1,16 @@
+{
+  "name": "Web-Estaticas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon Server/00-server.js"
+    //En la consola npm start
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
